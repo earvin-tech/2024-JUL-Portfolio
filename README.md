@@ -52,3 +52,12 @@ Footer has social media links and some other information such as contact and add
     </div>
 </footer>
 ```
+Note: Header and footer components have been made responsive depending on screen size.
+
+## Pages 
+
+### Home 
+Home page is the starting page of the website which consists of a cover image and detail about the company.
+
+### Services 
+Services page shows different services provided by the company such as Web development.
