@@ -61,3 +61,6 @@ Home page is the starting page of the website which consists of a cover image an
 
 ### Services 
 Services page shows different services provided by the company such as Web development.
+
+### Contact
+The contact page allows user to contact the company by providing different information.
